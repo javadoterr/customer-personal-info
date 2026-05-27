@@ -66,6 +66,7 @@
 	</dependencies>
 
 	<build>
+		<finalName>customer-personal-info-uat</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
