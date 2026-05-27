@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: customer-personal-info
+server:
+  port: 9090
